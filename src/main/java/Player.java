@@ -9,15 +9,11 @@ public class Player {
         this.strangth = strangth;
     }
 
-    public int getId() {
-        return id;
-    }
     public String getName() {
         return name;
     }
+
     public int getStrangth() {
         return strangth;
     }
-
-
 }
